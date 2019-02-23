@@ -3,7 +3,7 @@ good boy not
 
 punith  good boy
 
-
+ i am wrongly commitnf to stagging
 conflicts for sure
 
 git add 
